@@ -1,0 +1,27 @@
+/* <div class="up"></div>
+<div class="down1"></div>
+<div class="down2"></div>
+<style/> */
+  body{
+    margin: 0;
+    background: #62306D;
+    display: grid;
+    place-items: center;
+}
+div{
+    width: 100px;
+    height: 100px;
+    background: #F7EC7D;
+}
+.up {
+    transform: translate(0px, 50px);
+    border-radius: 60px 60px 0 0;
+}
+.down1 {
+    transform: translate(-100px, 50px);
+    border-radius: 0 0 60px 60px;
+}
+.down2 {
+    transform: translate(100px, -50px);
+    border-radius: 0 0 60px 60px;
+}
