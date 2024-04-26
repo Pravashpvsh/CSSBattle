@@ -1,7 +1,7 @@
  <div class="same-color top-circle"></div>
 <div class="mid-leaf"></div>
 <div class="same-color bottom-leaf"></div>
-<style/>
+<style>
 body {
     margin: 0;
     background: #0B2429;
@@ -33,3 +33,4 @@ div {
     border-radius: 60px 0 60px 60px;
     transform: translate(-60px, -90px);
 }
+</style>
