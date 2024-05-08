@@ -1,0 +1,14 @@
+/* <div></div>
+<div></div>
+<style/> */
+  body{
+    margin: 0;
+    background: #EA6B62; 
+    display: flex;
+    justify-content: space-between;
+  }
+  div{
+    width: 150px;
+    height: 150px;
+    background: #512B2A;
+  }
