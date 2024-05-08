@@ -1,1 +1,1 @@
-This repository contains my solutions to CSSBattle challenges, where I practice CSS to enhance my skills and knowledge.
+This repository contains my solutions to all challenges that i have done, where I practice diffrent problem to enhance my skills and knowledge.
